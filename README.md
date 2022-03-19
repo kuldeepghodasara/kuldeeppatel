@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects/reviews are available at [https://www.upwork.com/freelancers/kuldeepghodasara](https://www.upwork.com/freelancers/kuldeepghodasara)
 
-- 💬 Ask me about **liquid, JavaScript, React.js, Vue, HTML, Figma, Conversion Optimization, AOV Optimization**
+- 💬 Ask me about **Shopify, Themes, Design, liquid, JavaScript, React.js, Vue, HTML, Figma, Conversion Optimization, AOV Optimization**
 
 - 📫 How to reach me **kuldeep@iconsultify.com**
 
